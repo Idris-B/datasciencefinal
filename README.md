@@ -1,2 +1,0 @@
-# datasciencefinal
-plswrk
